@@ -1,0 +1,109 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "parkscapes:model/carousel/blue",
+		"particle": "parkscapes:model/carousel/blue"
+	},
+	"elements": [
+		{
+			"name": "Body",
+			"from": [3, 3.98358, -9.83939],
+			"to": [13, 13.98358, 12.16061],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [5.5, 13.5, 8, 16], "texture": "#0"},
+				"east": {"uv": [0, 13.5, 5.5, 16], "texture": "#0"},
+				"south": {"uv": [13.5, 13.5, 16, 16], "texture": "#0"},
+				"west": {"uv": [8, 13.5, 13.5, 16], "texture": "#0"},
+				"up": {"uv": [8, 13.5, 5.5, 8], "texture": "#0"},
+				"down": {"uv": [10.5, 8, 8, 13.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Saddle",
+			"from": [2.75, 4.73358, -2.83939],
+			"to": [13.25, 14.23358, 7.66061],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [6.5, 5.75, 9, 8], "texture": "#0"},
+				"east": {"uv": [4, 5.75, 6.5, 8], "texture": "#0"},
+				"south": {"uv": [11.5, 5.75, 14, 8], "texture": "#0"},
+				"west": {"uv": [9, 5.75, 11.5, 8], "texture": "#0"},
+				"up": {"uv": [9, 5.75, 6.5, 3.25], "texture": "#0"},
+				"down": {"uv": [11.5, 3.25, 9, 5.75], "texture": "#0"}
+			}
+		},
+		{
+			"name": "TailA",
+			"from": [6.5, -2.98797, 11.75104],
+			"to": [9.5, 11.01203, 15.75104],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [11.5, 10, 12.25, 13.5], "texture": "#0"},
+				"east": {"uv": [10.5, 10, 11.5, 13.5], "texture": "#0"},
+				"south": {"uv": [13.25, 10, 14, 13.5], "texture": "#0"},
+				"west": {"uv": [12.25, 10, 13.25, 13.5], "texture": "#0"},
+				"up": {"uv": [12.25, 10, 11.5, 9], "texture": "#0"},
+				"down": {"uv": [13, 9, 12.25, 10], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"ground": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [0, 61, 0],
+			"translation": [1.75, 0, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"head": {
+			"translation": [0, 0, 9.25],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"scale": [0.25, 0.25, 0.25]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 0.98358, 2.16061],
+			"color": 0,
+			"children": [
+				{
+					"name": "Body",
+					"origin": [0, 5.98358, 3.16061],
+					"color": 0,
+					"children": [0]
+				},
+				{
+					"name": "Saddle",
+					"origin": [0, 14.98358, -3.83939],
+					"color": 0,
+					"children": [1]
+				},
+				{
+					"name": "TailA",
+					"origin": [0, 12.98358, 5.16061],
+					"rotation": [-30, 0, 0],
+					"color": 0,
+					"children": [2]
+				}
+			]
+		}
+	]
+}
