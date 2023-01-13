@@ -1,0 +1,56 @@
+{
+  "variants": {
+    "instrument=bass,note=1": { "model": "parkscapes:note_block/stones/slate" },
+    "instrument=bass,note=2": {
+      "model": "parkscapes:note_block/stones/slate_bricks"
+    },
+    "instrument=bass,note=3": {
+      "model": "parkscapes:note_block/stones/marble"
+    },
+    "instrument=bass,note=4": {
+      "model": "parkscapes:note_block/stones/polished_marble"
+    },
+    "instrument=bass,note=5": {
+      "model": "parkscapes:note_block/stones/marble_bricks"
+    },
+    "instrument=bass,note=6": {
+      "model": "parkscapes:note_block/stones/limestone"
+    },
+    "instrument=bass,note=7": {
+      "model": "parkscapes:note_block/stones/limestone_bricks"
+    },
+    "instrument=bass,note=8": {
+      "model": "parkscapes:note_block/stones/cornerstone"
+    },
+    "instrument=bass,note=9": {
+      "model": "parkscapes:note_block/stones/stone_pillar"
+    },
+    "instrument=bass,note=10": {
+      "model": "parkscapes:note_block/stones/small_stone_bricks"
+    },
+    "instrument=bass,note=13": {
+      "model": "parkscapes:note_block/stones/cracked_lodestone"
+    },
+    "instrument=bass,note=14": {
+      "model": "parkscapes:note_block/stones/white_pebbles"
+    },
+    "instrument=harp,note=10": {
+        "model": "parkscapes:note_block/stones/small_stone_bricks"
+    },
+    "instrument=basedrum,note=10": {
+        "model": "parkscapes:note_block/stones/small_stone_bricks"
+    },
+    "instrument=basedrum,note=8": {
+        "model": "parkscapes:note_block/stones/cornerstone"
+    },
+    "instrument=harp,note=9": {
+        "model": "parkscapes:note_block/stones/stone_pillar"
+    },
+    "instrument=harp,note=8": {
+        "model": "parkscapes:note_block/stones/cornerstone"
+    },
+    "instrument=basedrum,note=9": {
+        "model": "parkscapes:note_block/stones/stone_pillar"
+    }
+  }
+}
