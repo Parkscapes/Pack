@@ -63,6 +63,12 @@
                 "custom_model_data": 109
             },
             "model": "parkscapes:carousel/colors/blue/leg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "parkscapes:pitschi_cars/red_pitschi_car"
         }
     ]
 }
