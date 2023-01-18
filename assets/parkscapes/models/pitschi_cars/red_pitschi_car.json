@@ -421,6 +421,11 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		}
+	},
 	"groups": [
 		{
 			"name": "bone7",
