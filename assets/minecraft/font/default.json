@@ -1,0 +1,18 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "parkscapes:tags/owner_tag.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "ttf",
+            "file": "minecraft:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        }
+    ]
+}
