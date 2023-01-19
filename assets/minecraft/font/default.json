@@ -3,9 +3,16 @@
         {
             "type": "bitmap",
             "file": "parkscapes:tags/owner_tag.png",
-            "ascent": 8,
-            "height": 9,
+            "ascent": 7,
+            "height": 7,
             "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "parkscapes:tags/dev_manager_tag.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE002"]
         },
         {
             "type": "ttf",
