@@ -78,12 +78,6 @@
         },
         {
             "predicate": {
-                "custom_model_data": 116
-            },
-            "model": "parkscapes:pitschi_cars/pitschi_car_lapbar"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 1000
             },
             "model": "parkscapes:gaspump/gaspump"
