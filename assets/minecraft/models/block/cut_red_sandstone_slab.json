@@ -1,8 +1,0 @@
-{
-    "parent": "block/slab",
-    "textures": {
-        "bottom": "parkscapes:model/grass_block",
-        "top": "parkscapes:model/grass_block",
-        "side": "parkscapes:model/grass_block"
-    }
-}
