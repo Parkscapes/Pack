@@ -1,6 +1,6 @@
 {
   "variants": {
-    "instrument=bass,note=1": { 
+    "instrument=bass,note=0": { 
       "model": "parkscapes:note_block/stonebricks/stone_brick_double_slab"}
   }
 }
