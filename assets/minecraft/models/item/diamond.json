@@ -8,25 +8,25 @@
             "predicate": {
                 "custom_model_data": 101
             },
-            "model": "parkscapes:ride_vehicles/spacemountain-no-restraints"
+            "model": "parkscapes:ride_vehicles/spacemountain_no_restraints"
         },
         {
             "predicate": {
                 "custom_model_data": 102
             },
-            "model": "parkscapes:ride_vehicles/spacemountain-restraints"
+            "model": "parkscapes:ride_vehicles/spacemountain_restraints"
         },
         {
             "predicate": {
                 "custom_model_data": 103
             },
-            "model": "parkscapes:ride_vehicles/thundermountain-passenger-no-restraints"
+            "model": "parkscapes:ride_vehicles/thundermountain_passenger_no_restraints"
         },
         {
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "parkscapes:ride_vehicles/thundermountain-passenger-restraints"
+            "model": "parkscapes:ride_vehicles/thundermountain_passenger_restraints"
         }
     ]
 }
