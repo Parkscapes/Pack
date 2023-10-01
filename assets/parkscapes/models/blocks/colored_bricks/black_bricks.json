@@ -1,7 +1,7 @@
 {
-    "parent": "parkscapes:models/blocks/base",
-    "textures": {
-		"0": "parkscapes:custom/blocks/colored_bricks/brown_bricks",
-		"particle": "parkscapes:custom/blocks/colored_bricks/brown_bricks"
+	"parent": "parkscapes:blocks/base",
+	"textures": {
+		"0": "parkscapes:custom/blocks/colored_bricks/black_bricks",
+		"particle": "parkscapes:custom/blocks/colored_bricks/black_bricks"
 	}
 }
