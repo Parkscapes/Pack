@@ -50,6 +50,64 @@
      },
      "instrument=basedrum,note=16":{
         "model":"parkscapes:blocks/colored_bricks/pink_bricks"
-     }
+     },
+
+     
+
+
+     "instrument=bass,note=0":{
+        "model":"block/note_block"
+     },
+     "instrument=bass,note=1":{
+        "model":"parkscapes:blocks/colored_planks/white_planks"
+     },
+     "instrument=bass,note=2":{
+      "model":"parkscapes:blocks/colored_planks/light_gray_planks"
+   },
+   "instrument=bass,note=3":{
+      "model":"parkscapes:blocks/colored_planks/gray_planks"
+   },
+   "instrument=bass,note=4":{
+      "model":"parkscapes:blocks/colored_planks/black_planks"
+   },
+   "instrument=bass,note=5":{
+      "model":"parkscapes:blocks/colored_planks/brown_planks"
+   },
+   "instrument=bass,note=6":{
+      "model":"parkscapes:blocks/colored_planks/red_planks"
+   },
+   "instrument=bass,note=7":{
+      "model":"parkscapes:blocks/colored_planks/orange_planks"
+   },
+   "instrument=bass,note=8":{
+      "model":"parkscapes:blocks/colored_planks/yellow_planks"
+   },
+   "instrument=bass,note=9":{
+      "model":"parkscapes:blocks/colored_planks/lime_planks"
+   },
+   "instrument=bass,note=10":{
+      "model":"parkscapes:blocks/colored_planks/green_planks"
+   },
+   "instrument=bass,note=11":{
+      "model":"parkscapes:blocks/colored_planks/cyan_planks"
+   },
+   "instrument=bass,note=12":{
+      "model":"parkscapes:blocks/colored_planks/light_blue_planks"
+   },
+   "instrument=bass,note=13":{
+      "model":"parkscapes:blocks/colored_planks/blue_planks"
+   },
+   "instrument=bass,note=14":{
+      "model":"parkscapes:blocks/colored_planks/purple_planks"
+   },
+   "instrument=bass,note=15":{
+      "model":"parkscapes:blocks/colored_planks/magenta_planks"
+   },
+   "instrument=bass,note=16":{
+      "model":"parkscapes:blocks/colored_planks/pink_planks"
+   }
+
+
+
  }
 }
