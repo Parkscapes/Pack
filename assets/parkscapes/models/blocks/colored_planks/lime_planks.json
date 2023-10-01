@@ -1,7 +1,7 @@
 {
 	"parent": "parkscapes:blocks/base",
 	"textures": {
-		"0": "parkscapes:custom/blocks/colored_bricks/lime_planks",
-		"particle": "parkscapes:custom/blocks/colored_bricks/lime_planks"
+		"0": "parkscapes:custom/blocks/colored_planks/lime_planks",
+		"particle": "parkscapes:custom/blocks/colored_planks/lime_planks"
 	}
 }
