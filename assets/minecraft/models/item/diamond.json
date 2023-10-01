@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/diamond"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 101
+            },
+            "model": "parkscapes:ride_vehicles/spacemountain-no-restraints"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "parkscapes:ride_vehicles/spacemountain-restraints"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "parkscapes:ride_vehicles/thundermountain-passenger-no-restraints"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "parkscapes:ride_vehicles/thundermountain-passenger-restraints"
+        }
+    ]
+}

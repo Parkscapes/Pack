@@ -1,0 +1,71 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "parkscapes:custom/ride_vehicles/spacemountain2",
+		"particle": "parkscapes:custom/ride_vehicles/spacemountain2"
+	},
+	"elements": [
+		{
+			"from": [7.5, 2.75, 3.75],
+			"to": [8.5, 8.25, 4.75],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 3, 4.25]},
+			"faces": {
+				"north": {"uv": [0, 8.375, 0.25, 9.75], "texture": "#0"},
+				"east": {"uv": [0, 8.375, 0.25, 9.75], "texture": "#0"},
+				"south": {"uv": [0, 8.375, 0.25, 9.75], "texture": "#0"},
+				"west": {"uv": [0, 8.375, 0.25, 9.75], "texture": "#0"},
+				"up": {"uv": [11.125, 4.5, 10.875, 4.25], "texture": "#0"},
+				"down": {"uv": [1.75, 8.875, 1.5, 9.125], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11.5, 7.35037, 5.75909],
+			"to": [11.5, 9.35037, 6.75909],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [11.5, 7.85037, 6.25909]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0.5], "texture": "#0"},
+				"east": {"uv": [2, 8.625, 2.25, 9.125], "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 0.5], "texture": "#0"},
+				"west": {"uv": [2, 8.625, 2.25, 9.125], "texture": "#0"},
+				"up": {"uv": [0, 0.25, 0, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 0.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.5, 7.35037, 5.75909],
+			"to": [11.5, 8.35037, 6.75909],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7.85037, 6.25909]},
+			"faces": {
+				"north": {"uv": [0.25, 8.625, 2, 8.875], "texture": "#0"},
+				"east": {"uv": [0, 9.75, 0.25, 10], "texture": "#0"},
+				"south": {"uv": [0.25, 8.625, 2, 8.875], "texture": "#0"},
+				"west": {"uv": [0, 9.75, 0.25, 10], "texture": "#0"},
+				"up": {"uv": [2, 8.625, 0.25, 8.375], "texture": "#0"},
+				"down": {"uv": [2, 8.875, 0.25, 9.125], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "root",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [
+				{
+					"name": "allchairs",
+					"origin": [0, 0, 0],
+					"color": 0,
+					"children": [
+						{
+							"name": "chair",
+							"origin": [4, 4, 4],
+							"color": 0,
+							"children": [0, 1, 2]
+						}
+					]
+				}
+			]
+		}
+	]
+}

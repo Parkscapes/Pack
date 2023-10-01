@@ -1,0 +1,115 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "parkscapes:custom/ride_vehicles/thundermountainpassenger",
+		"particle": "parkscapes:custom/ride_vehicles/thundermountainpassenger"
+	},
+	"elements": [
+		{
+			"from": [15.5, 2.5, 10],
+			"to": [16, 9.5, 10.5],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 2.5, 10.5]},
+			"faces": {
+				"north": {"uv": [5.25, 1.875, 5.375, 3.625], "texture": "#0"},
+				"east": {"uv": [5.375, 1.875, 5.5, 3.625], "texture": "#0"},
+				"south": {"uv": [5.25, 1.875, 5.375, 3.625], "texture": "#0"},
+				"west": {"uv": [5.375, 1.875, 5.5, 3.625], "texture": "#0"},
+				"up": {"uv": [5.625, 2, 5.5, 1.875], "texture": "#0"},
+				"down": {"uv": [7.25, 1.75, 7.125, 1.875], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 2.5, 10],
+			"to": [0.5, 9.5, 10.5],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 2.5, 10.5]},
+			"faces": {
+				"north": {"uv": [5.25, 1.875, 5.375, 3.625], "texture": "#0"},
+				"east": {"uv": [5.375, 1.875, 5.5, 3.625], "texture": "#0"},
+				"south": {"uv": [5.25, 1.875, 5.375, 3.625], "texture": "#0"},
+				"west": {"uv": [5.375, 1.875, 5.5, 3.625], "texture": "#0"},
+				"up": {"uv": [5.625, 2, 5.5, 1.875], "texture": "#0"},
+				"down": {"uv": [6.5, 1.875, 6.375, 2], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0.5, 9, 10],
+			"to": [15.5, 9.5, 10.5],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 2.5, 10.5]},
+			"faces": {
+				"north": {"uv": [5.25, 2.875, 5.5, 3], "texture": "#0"},
+				"east": {"uv": [6.25, 8.5, 6.375, 8.625], "texture": "#0"},
+				"south": {"uv": [5.25, 2.75, 5.5, 2.875], "texture": "#0"},
+				"west": {"uv": [6.375, 9.25, 6.5, 9.375], "texture": "#0"},
+				"up": {"uv": [5.5, 2.875, 5.25, 2.75], "texture": "#0"},
+				"down": {"uv": [5.5, 2.875, 5.25, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1.5, 8.75, 9.75],
+			"to": [14.5, 9.75, 10.75],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 2.5, 10.5]},
+			"faces": {
+				"north": {"uv": [5.625, 1.875, 8.875, 2.125], "texture": "#0"},
+				"east": {"uv": [8.875, 1.875, 9.125, 2.125], "texture": "#0"},
+				"south": {"uv": [5.625, 2.375, 8.875, 2.625], "texture": "#0"},
+				"west": {"uv": [8.875, 1.875, 9.125, 2.125], "texture": "#0"},
+				"up": {"uv": [8.875, 2.375, 5.625, 2.125], "texture": "#0"},
+				"down": {"uv": [8.875, 2.625, 5.625, 2.875], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -180, 0],
+			"scale": [2, 2, 2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [67, -180, 0],
+			"translation": [1.5, 6.25, 3.25],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 25],
+			"translation": [0, 1.6, 0.8],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, -25],
+			"translation": [0, 1.6, 0.8],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"ground": {
+			"scale": [2, 2, 2]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 32, -9.5],
+			"scale": [3.2, 3.2, 3.2]
+		}
+	},
+	"groups": [
+		{
+			"name": "body",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		},
+		{
+			"name": "front",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "handles",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": []
+		}
+	]
+}
