@@ -1,24 +1,6 @@
 {
   "pack": {
-    "pack_format": 9,
-    "description": [
-      {
-        "text": "ParkscapesMC",
-        "color": "#ffd88f",
-        "bold": true
-      },
-      {
-        "text": "\nPSMCDate | PSMCVersion",
-        "color": "#a3acbe",
-        "bold": false
-      }
-    ]
-  },
-  "language": {
-    "en_us": {
-      "name": "English (US)",
-      "region": "United States",
-      "bidirectional": false
-    }
+    "pack_format": 15,
+    "description": ""
   }
 }

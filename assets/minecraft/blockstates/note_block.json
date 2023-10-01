@@ -1,6 +1,10 @@
 {
-  "variants": {
-    "instrument=bass,note=0": { 
-      "model": "parkscapes:note_block/stonebricks/stone_brick_double_slab"}
-  }
+    "variants":{
+       "instrument=basedrum,note=0":{
+          "model":"block/note_block"
+       },
+       "instrument=basedrum,note=1":{
+          "model":"parkscapes:blocks/colored_bricks/black_bricks"
+       }
+ }
 }
