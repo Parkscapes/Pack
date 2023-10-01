@@ -1,0 +1,7 @@
+{
+	"parent": "parkscapes:blocks/base",
+	"textures": {
+		"0": "parkscapes:custom/blocks/colored_bricks/gray_bricks",
+		"particle": "parkscapes:custom/blocks/colored_bricks/gray_bricks"
+	}
+}

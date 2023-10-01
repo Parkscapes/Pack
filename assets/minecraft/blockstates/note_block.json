@@ -4,7 +4,52 @@
           "model":"block/note_block"
        },
        "instrument=basedrum,note=1":{
-          "model":"parkscapes:blocks/colored_bricks/black_bricks"
-       }
+          "model":"parkscapes:blocks/colored_bricks/white_bricks"
+       },
+       "instrument=basedrum,note=2":{
+        "model":"parkscapes:blocks/colored_bricks/light_gray_bricks"
+     },
+     "instrument=basedrum,note=3":{
+        "model":"parkscapes:blocks/colored_bricks/gray_bricks"
+     },
+     "instrument=basedrum,note=4":{
+        "model":"parkscapes:blocks/colored_bricks/black_bricks"
+     },
+     "instrument=basedrum,note=5":{
+        "model":"parkscapes:blocks/colored_bricks/brown_bricks"
+     },
+     "instrument=basedrum,note=6":{
+        "model":"parkscapes:blocks/colored_bricks/red_bricks"
+     },
+     "instrument=basedrum,note=7":{
+        "model":"parkscapes:blocks/colored_bricks/orange_bricks"
+     },
+     "instrument=basedrum,note=8":{
+        "model":"parkscapes:blocks/colored_bricks/yellow_bricks"
+     },
+     "instrument=basedrum,note=9":{
+        "model":"parkscapes:blocks/colored_bricks/lime_bricks"
+     },
+     "instrument=basedrum,note=10":{
+        "model":"parkscapes:blocks/colored_bricks/green_bricks"
+     },
+     "instrument=basedrum,note=11":{
+        "model":"parkscapes:blocks/colored_bricks/cyan_bricks"
+     },
+     "instrument=basedrum,note=12":{
+        "model":"parkscapes:blocks/colored_bricks/light_blue_bricks"
+     },
+     "instrument=basedrum,note=13":{
+        "model":"parkscapes:blocks/colored_bricks/blue_bricks"
+     },
+     "instrument=basedrum,note=14":{
+        "model":"parkscapes:blocks/colored_bricks/purple_bricks"
+     },
+     "instrument=basedrum,note=15":{
+        "model":"parkscapes:blocks/colored_bricks/magenta_bricks"
+     },
+     "instrument=basedrum,note=16":{
+        "model":"parkscapes:blocks/colored_bricks/pink_bricks"
+     }
  }
 }
