@@ -27,6 +27,30 @@
                 "custom_model_data": 104
             },
             "model": "parkscapes:ride_vehicles/thundermountain_passenger_restraints"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105
+            },
+            "model": "parkscapes:ride_vehicles/new_peoplemover_car"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "parkscapes:ride_vehicles/new_peoplemover_right_door"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107
+            },
+            "model": "parkscapes:ride_vehicles/new_peoplemover_left_door"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108
+            },
+            "model": "parkscapes:decorations/trash_cans/trashcan_tl"
         }
     ]
 }
