@@ -75,6 +75,12 @@
                 "custom_model_data": 111
             },
             "model": "parkscapes:ride_other/space_mountain/pixel_art_galaxy"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 112
+            },
+            "model": "parkscapes:ride_other/space_mountain/black_hole"
         }
     ]
 }
