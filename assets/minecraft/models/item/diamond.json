@@ -62,13 +62,19 @@
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "parkscapes:ride_other/space_lift/space_lift_screen_1"
+            "model": "parkscapes:ride_other/space_mountain/space_lift_screen_1"
         },
         {
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "parkscapes:ride_other/space_lift/space_lift_screen_2"
+            "model": "parkscapes:ride_other/space_mountain/space_lift_screen_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 111
+            },
+            "model": "parkscapes:ride_other/space_mountain/pixel_art_galaxy"
         }
     ]
 }
