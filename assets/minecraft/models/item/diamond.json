@@ -57,6 +57,18 @@
                 "custom_model_data": 109
             },
             "model": "parkscapes:ride_other/lift_tunnel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "parkscapes:ride_other/space_lift/space_lift_screen_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109
+            },
+            "model": "parkscapes:ride_other/space_lift/space_lift_screen_2"
         }
     ]
 }
