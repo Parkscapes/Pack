@@ -93,6 +93,12 @@
                 "custom_model_data": 115
             },
             "model": "parkscapes:ride_other/space_mountain/warp_tunnel_screen"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 116
+            },
+            "model": "parkscapes:ride_other/space_mountain/space_mountain_gate"
         }
     ]
 }
