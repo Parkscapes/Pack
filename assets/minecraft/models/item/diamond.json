@@ -75,6 +75,24 @@
                 "custom_model_data": 112
             },
             "model": "parkscapes:ride_other/space_mountain/spiral_galaxy"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 113
+            },
+            "model": "parkscapes:ride_other/space_mountain/warp_tunnel"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 114
+            },
+            "model": "parkscapes:ride_other/space_mountain/warp_tunnel_end"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 115
+            },
+            "model": "parkscapes:ride_other/space_mountain/warp_tunnel_screen"
         }
     ]
 }
