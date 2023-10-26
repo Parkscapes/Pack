@@ -36,6 +36,30 @@
         },
         {
             "predicate": {
+                "custom_model_data": 107
+            },
+            "model": "parkscapes:ride_other/space_mountain/warp_tunnel_screen_a"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108
+            },
+            "model": "parkscapes:ride_other/space_mountain/warp_tunnel_screen_b"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109
+            },
+            "model": "parkscapes:ride_other/space_mountain/warp_tunnel_screen_c"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 110
+            },
+            "model": "parkscapes:ride_other/space_mountain/warp_tunnel_screen_d"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 111
             },
             "model": "parkscapes:ride_other/space_mountain/red_tunnel"
