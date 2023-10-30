@@ -1,0 +1,65 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"1": "coastercon:model/rainforest/giraffe"
+	},
+	"elements": [
+		{
+			"from": [-1, -0.5, -7],
+			"to": [17, 16.5, 23],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [4.5, 0, 6.75, 2.125], "texture": "#1"},
+				"east": {"uv": [0, 3.75, 3.75, 5.875], "texture": "#1"},
+				"south": {"uv": [1.75, 5.875, 4, 8], "texture": "#1"},
+				"west": {"uv": [3.75, 3.75, 7.5, 5.875], "texture": "#1"},
+				"up": {"uv": [2.25, 3.75, 0, 0], "texture": "#1"},
+				"down": {"uv": [4.5, 0, 2.25, 3.75], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [67, 0, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [67, 0, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [67, 0, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [67, 0, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"translation": [0, 15.5, 0],
+			"scale": [1.75, 1.75, 1.75]
+		}
+	},
+	"groups": [
+		{
+			"name": "main",
+			"origin": [8, 4.5, -0.7],
+			"color": 0,
+			"nbt": "{}",
+			"children": [
+				{
+					"name": "body",
+					"origin": [8, 4.5, -0.7],
+					"color": 0,
+					"nbt": "{}",
+					"children": [0]
+				}
+			]
+		}
+	]
+}

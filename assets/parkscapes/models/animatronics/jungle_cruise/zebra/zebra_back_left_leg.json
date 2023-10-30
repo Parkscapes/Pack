@@ -1,0 +1,58 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"2": "coastercon:model/rainforest/zebra",
+		"particle": "coastercon:model/rainforest/zebra"
+	},
+	"elements": [
+		{
+			"from": [8.25, -6, 5],
+			"to": [12.25, 11, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [2.25, 7, 2.75, 9.125], "texture": "#2"},
+				"east": {"uv": [5.125, 5.25, 5.875, 7.375], "texture": "#2"},
+				"south": {"uv": [7.25, 6.5, 7.75, 8.625], "texture": "#2"},
+				"west": {"uv": [5.875, 3.75, 6.625, 5.875], "texture": "#2"},
+				"up": {"uv": [5.25, 0.75, 4.75, 0], "texture": "#2"},
+				"down": {"uv": [5.25, 0.75, 4.75, 1.5], "texture": "#2"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [67, 0, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [67, 0, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [67, 0, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [67, 0, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"translation": [0, 15.5, 0],
+			"scale": [1.75, 1.75, 1.75]
+		}
+	},
+	"groups": [
+		{
+			"name": "main",
+			"origin": [13, 15.5, -1],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0]
+		}
+	]
+}
