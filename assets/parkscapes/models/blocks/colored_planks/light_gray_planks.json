@@ -2,6 +2,6 @@
 	"parent": "parkscapes:blocks/base",
 	"textures": {
 		"0": "parkscapes:custom/blocks/colored_planks/light_gray_planks",
-		"particle": "parkscapes:custom/blocks/colored_planks/little_gray_planks"
+		"particle": "parkscapes:custom/blocks/colored_planks/light_gray_planks"
 	}
 }
