@@ -1,1 +1,8 @@
-{}
+{
+    "parent": "minecraft:block/petrified_oak_slab",
+    "textures": {
+      "bottom": "minecraft:block/barrier",
+      "top": "minecraft:block/barrier",
+      "side": "minecraft:block/barrier"
+    }
+  }
