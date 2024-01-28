@@ -50,19 +50,7 @@
             "predicate": {
                 "custom_model_data": 108
             },
-            "model": "parkscapes:decorations/trash_cans/trashcan_tl"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 109
-            },
-            "model": "parkscapes:blocks/fence_connectors/spruce_diagonal_fence_top"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 110
-            },
-            "model": "parkscapes:blocks/fence_connectors/spruce_diagonal_fence_bottom"
+            "model": "parkscapes:ride_vehicles/thundermountain_newtest"
         }
     ]
 }
