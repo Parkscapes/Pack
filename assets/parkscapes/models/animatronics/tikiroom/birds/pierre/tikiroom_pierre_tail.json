@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "parkscapes:custom/animatronics/tikiroom/birds/tikiroom_pierre",
+		"particle": "parkscapes:custom/animatronics/tikiroom/birds/tikiroom_pierre"
+	},
+	"elements": [
+		{
+			"name": "tail_main",
+			"from": [10.29219, -7.70781, 5],
+			"to": [10.29219, 2.29219, 11],
+			"rotation": {"angle": 45, "axis": "z", "origin": [9.29219, 2.29219, 11]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 5], "texture": "#0"},
+				"east": {"uv": [0, 0, 3, 5], "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 5], "texture": "#0"},
+				"west": {"uv": [3, 0, 6, 5], "texture": "#0"},
+				"up": {"uv": [0, 3, 0, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 3], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "tail",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}
