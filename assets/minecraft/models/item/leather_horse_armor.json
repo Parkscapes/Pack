@@ -1,0 +1,38 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/leather_horse_armor"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 101
+            },
+            "model": "parkscapes:animatronics/tikiroom/flowers/tikiroom_orchid_a"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "parkscapes:animatronics/tikiroom/flowers/tikiroom_orchid_b"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "parkscapes:animatronics/tikiroom/flowers/tikiroom_orchid_c"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "parkscapes:animatronics/tikiroom/flowers/tikiroom_orchid_d"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105
+            },
+            "model": "parkscapes:animatronics/tikiroom/flowers/tikiroom_orchid_mouth"
+        }
+    ]
+}

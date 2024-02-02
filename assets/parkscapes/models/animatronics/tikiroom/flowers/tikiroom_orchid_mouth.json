@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "parkscapes:custom/animatronics/tikiroom/flowers/tikiroom_orchid_mouth",
+		"particle": "parkscapes:custom/animatronics/tikiroom/flowers/tikiroom_orchid_mouth"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 6.5],
+			"to": [8, 1, 9.5],
+			"faces": {
+				"north": {"uv": [6, 2, 12, 3], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [6, 4, 9, 5], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [6, 3, 12, 4], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [5, 6, 8, 7], "texture": "#0"},
+				"up": {"uv": [6, 3, 0, 0], "texture": "#0", "tintindex": 0},
+				"down": {"uv": [6, 3, 0, 6], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"from": [2, 0, 5.5],
+			"to": [2, 2, 10.5],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 2], "texture": "#0"},
+				"east": {"uv": [0, 6, 5, 8], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [0, 0, 0, 2], "texture": "#0"},
+				"west": {"uv": [6, 0, 11, 2], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [0, 5, 0, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 5], "texture": "#0"}
+			}
+		}
+	]
+}
