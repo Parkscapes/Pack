@@ -20,7 +20,7 @@
             "predicate": {
                 "custom_model_data": 103
             },
-            "model": "parkscapes:ride_vehicles/thundermountain_passenger_no_restraints"
+            "model": "parkscapes:ride_vehicles/thundermountain_passenger_newtest"
         },
         {
             "predicate": {
@@ -45,12 +45,6 @@
                 "custom_model_data": 107
             },
             "model": "parkscapes:ride_vehicles/new_peoplemover_left_door"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 108
-            },
-            "model": "parkscapes:ride_vehicles/thundermountain_newtest"
         }
     ]
 }
