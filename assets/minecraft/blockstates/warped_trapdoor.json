@@ -1,0 +1,10 @@
+{
+    "variants":{
+       "powered=true":{
+          "model":"parkscapes:blocks/trapdoor/blue_trapdoor"
+       }
+
+
+
+ }
+}
