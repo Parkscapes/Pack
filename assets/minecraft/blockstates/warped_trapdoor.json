@@ -1,7 +1,7 @@
 {
     "variants":{
        "powered=true":{
-          "model":"parkscapes:blocks/trapdoor/blue_trapdoor"
+          "model":"parkscapes:blocks/trapdoors/blue_trapdoor"
        }
 
 
