@@ -1,5 +1,5 @@
 {
-	"parent": "parkscapes:blocks/trapdoor",
+	"parent": "parkscapes:blocks/trapdoor_open",
 	"textures": {
 		"0": "parkscapes:custom/blocks/trapdoors/blue_trapdoor",
 		"particle": "parkscapes:custom/blocks/trapdoors/blue_trapdoor"
