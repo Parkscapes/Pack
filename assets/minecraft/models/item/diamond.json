@@ -45,6 +45,18 @@
                 "custom_model_data": 107
             },
             "model": "parkscapes:ride_vehicles/new_peoplemover_left_door"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108
+            },
+            "model": "parkscapes:cop/carousel_of_progress"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 109
+            },
+            "model": "parkscapes:autopia/autopia_red"
         }
     ]
 }

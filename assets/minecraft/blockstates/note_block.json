@@ -105,6 +105,12 @@
    },
    "instrument=bass,note=16":{
       "model":"parkscapes:blocks/colored_planks/pink_planks"
+   },
+
+
+
+   "instrument=hat,note=1":{
+      "model":"parkscapes:blocks/diagonal_bricks"
    }
 
 
