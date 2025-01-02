@@ -1,0 +1,25 @@
+name: Replace metadata placeholders
+description: Replaces various PSMC-namespaced pieces of data in pack.mcmeta with the respective data values.
+runs:
+  using: composite
+  steps:
+    - name: Get current date
+      id: date
+      shell: bash
+      run: |
+        echo "::set-output name=date::$(date +'%m/%d/%Y')"
+    - name: Replace version ID placeholder
+      uses: jacobtomlinson/gha-find-replace@v2
+      with:
+        find: "PSMCVersion"
+        replace: "${{ github.ref_name }}"
+        # replace: "${{ steps.commit.outputs.commit }}"
+        include: "pack/pack.mcmeta"
+        regex: false
+    - name: Replace version date placeholder
+      uses: jacobtomlinson/gha-find-replace@v2
+      with:
+        find: "PSMCDate"
+        replace: "${{ steps.date.outputs.date }}"
+        include: "pack/pack.mcmeta"
+        regex: false
